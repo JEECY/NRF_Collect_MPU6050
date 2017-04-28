@@ -1,1 +1,1 @@
-There has four devices.the one is coordinator,the others are enddevice.Enddeviceuse NRF to transfer data for coordinator.Packing the collected data,coordinator uses Bluetooth to transfer data for phone.
+ There has four devices.the one is coordinator,the others are enddevice.Enddeviceuse NRF to transfer data for coordinator.Packing the collected data,coordinator uses Bluetooth to transfer data for phone.
