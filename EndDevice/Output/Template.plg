@@ -1,0 +1,20 @@
+<html>
+<body>
+<pre>
+<h1>礦ision Build Log</h1>
+<h2>Project:</h2>
+C:\Users\ALBER\Desktop\NRF与MPU6050\NRF多对一\终端节点\Project\RVMDK（uv4）\iSO-STM32.uvproj
+Project File Date:  04/07/2017
+
+<h2>Output:</h2>
+Build target 'nrf24l01+/slave'
+compiling bsp_spi_nrf.c...
+..\..\User\nrf\bsp_spi_nrf.c(263): error:  #29: expected an expression
+"..\..\Output\Template.axf" - 1 Errors, 0 Warning(s).
+Target not created
+Build target 'nrf24l01+/slave'
+compiling bsp_spi_nrf.c...
+linking...
+Program Size: Code=25308 RO-data=3796 RW-data=164 ZI-data=1300  
+FromELF: creating hex file...
+"..\..\Output\Template.axf" - 0 Errors, 0 Warning(s).

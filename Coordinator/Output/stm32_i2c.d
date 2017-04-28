@@ -1,0 +1,13 @@
+..\..\output\stm32_i2c.o: ..\..\User\STM32_I2C.c
+..\..\output\stm32_i2c.o: ..\..\User\STM32_I2C.h
+..\..\output\stm32_i2c.o: ..\..\Libraries\CMSIS\stm32f10x.h
+..\..\output\stm32_i2c.o: ..\..\Libraries\CMSIS\core_cm3.h
+..\..\output\stm32_i2c.o: F:\keil\ARM\ARMCC\bin\..\include\stdint.h
+..\..\output\stm32_i2c.o: ..\..\Libraries\CMSIS\system_stm32f10x.h
+..\..\output\stm32_i2c.o: ..\..\User\stm32f10x_conf.h
+..\..\output\stm32_i2c.o: ..\..\Libraries\FWlib\inc\stm32f10x_gpio.h
+..\..\output\stm32_i2c.o: ..\..\Libraries\CMSIS\stm32f10x.h
+..\..\output\stm32_i2c.o: ..\..\Libraries\FWlib\inc\stm32f10x_rcc.h
+..\..\output\stm32_i2c.o: ..\..\Libraries\FWlib\inc\stm32f10x_spi.h
+..\..\output\stm32_i2c.o: ..\..\Libraries\FWlib\inc\stm32f10x_usart.h
+..\..\output\stm32_i2c.o: ..\..\Libraries\FWlib\inc\misc.h
